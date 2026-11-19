@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Generation-Code-To-Video/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Video-Generation-Code-To-Video?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Generation-Code-To-Video/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Video-Generation-Code-To-Video?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Generation-Code-To-Video/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Video-Generation-Code-To-Video?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Generation-Code-To-Video/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,9 +63,9 @@ The table below provides transparent pricing tiers, exact free tier / trial allo
 
 The following list comprises the most impactful open-source repositories powering the modern programmatic code-to-video and open-weight diffusion video ecosystem. 
 
-Repositories are **sorted strictly by GitHub Star count in descending order**, and each repository features a live GitHub star badge linking directly to its Stargazers page:
+Repositories are **sorted strictly by GitHub Stars_Count in descending order**, and each repository features a live GitHub Stars_Badge linking directly to its Stargazers page:
 
-| 📦 Repository &amp; Link | 🌟 GitHub Stars Badge | 🛠️ Category / Focus | 📖 Description &amp; Highlights |
+| 📦 Repository &amp; Link | 🌟 GitHub_Stars_Badge | 🛠️ Category / Focus | 📖 Description &amp; Highlights |
 | :--- | :--- | :--- | :--- |
 | **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** | [![Stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=social&color=white)](https://github.com/harry0703/MoneyPrinterTurbo/stargazers) | Automated Video Pipeline | Full-featured automated short-form video generator leveraging LLMs, TTS narrations, automated subtitle alignment, and HD background footage stitching. |
 | **[3b1b/manim](https://github.com/3b1b/manim)** | [![Stars](https://img.shields.io/github/stars/3b1b/manim?style=social&color=white)](https://github.com/3b1b/manim/stargazers) | Programmatic Code-to-Video | The original Python animation engine created by Grant Sanderson (3Blue1Brown) for programmatic mathematical animations and educational video rendering. |

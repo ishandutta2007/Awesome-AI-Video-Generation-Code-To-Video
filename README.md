@@ -63,7 +63,7 @@ The table below provides transparent pricing tiers, exact free tier / trial allo
 
 The following list comprises the most impactful open-source repositories powering the modern programmatic code-to-video and open-weight diffusion video ecosystem. 
 
-Repositories are **sorted strictly by GitHub Stars_Count in descending order**, and each repository features a live GitHub Stars_Badge linking directly to its Stargazers page:
+Repositories are **sorted strictly by GitHub_Stars_Count in descending order**, and each repository features a live GitHub_Stars_Badge linking directly to its Stargazers page:
 
 | 📦 Repository &amp; Link | 🌟 GitHub_Stars_Badge | 🛠️ Category / Focus | 📖 Description &amp; Highlights |
 | :--- | :--- | :--- | :--- |

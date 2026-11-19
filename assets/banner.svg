@@ -106,7 +106,7 @@
   <!-- Foreground Subtitle -->
   <g transform="translate(600, 215)">
     <text class="sub-text" x="0" y="0" text-anchor="middle" font-size="20" fill="#f8fafc" letter-spacing="0.5">
-      Programmatic Rendering &bull; Video Foundation Models &bull; AI Avatars &bull; GPU Pipelines
+      Programmatic Rendering &#8226; Video Foundation Models &#8226; AI Avatars &#8226; GPU Pipelines
     </text>
     <text class="sub-text" x="0" y="32" text-anchor="middle" font-size="14" fill="#94a3b8">
       Curated rankings, SaaS pricing transparency, enterprise valuations &amp; verified open-source GitHub stars
